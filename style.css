@@ -3,7 +3,9 @@
     padding: 0;
     background-color: blue;
 }
-
+body{
+    background-color: blue;
+}
 html{
     scroll-behavior: smooth;
 }
